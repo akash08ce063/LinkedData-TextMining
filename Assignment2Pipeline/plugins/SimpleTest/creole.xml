@@ -1,0 +1,21 @@
+<!-- creole.xml SimpleTest -->
+<!--  Ricardo KAKA, 7/3/2014 -->
+
+<!--
+This file just references the JAR file that contains the compiled resource.
+Configuration is contained in the @CreoleResource annotation on 
+sheffield.creole.simpletest.SimpleTest.
+-->
+
+<CREOLE-DIRECTORY>
+ <CREOLE>
+  <RESOURCE>
+    <NAME>SimpleTest</NAME>
+    <JAR>SimpleTest.jar</JAR>
+   
+    <CLASS>sheffield.creole.simpletest.SimpleTest</CLASS>
+  </RESOURCE>
+
+</CREOLE>
+
+</CREOLE-DIRECTORY>

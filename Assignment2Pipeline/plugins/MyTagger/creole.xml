@@ -1,0 +1,15 @@
+<!-- creole.xml MyTagger -->
+<!--  Ricardo KAKA, 30/1/2014 -->
+<!-- $Id: creole.xml 7419 2006-04-25 18:51:58Z ian_roberts $ -->
+
+<CREOLE-DIRECTORY>
+
+<CREOLE>
+  <RESOURCE>
+    <NAME>MyTagger</NAME>
+    <JAR>MyTagger.jar</JAR>
+    <CLASS>com.akash.MyTagger.MyTagger</CLASS>
+  </RESOURCE>
+</CREOLE>
+
+</CREOLE-DIRECTORY>
